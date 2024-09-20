@@ -1,1 +1,1 @@
-xd hola josep xd ^_^
+el projecte es sobre projecte del projecte

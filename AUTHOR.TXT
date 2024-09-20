@@ -1,0 +1,6 @@
+Nombre: Marcelo
+Apellido: Lejk
+Edad : 69 Años
+Nacimiento: Zurich Suiza
+Donde vivo: BADalona,Cataluña,España
+
